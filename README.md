@@ -13,6 +13,6 @@ A simple React project to display a pizza menu, built as part of Jonas Schmedtma
 - Styled with CSS for a clean and responsive layout.
 - Uses React components for modularity and reusability.
 
-## 📩 Contact us
+## 💌 Contact us
 
 Crafted with passion by Kirollos Rezkallah. Explore more projects on [GitHub](https://github.com/Kirollos-Rezkallah) and drop me a message at [kiroomamdouh@gmail.com](mailto:kiroomamdouh@gmail.com) for instant connections and collaborations.
