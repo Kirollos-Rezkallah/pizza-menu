@@ -4,7 +4,7 @@ A simple React project to display a pizza menu, built as part of Jonas Schmedtma
 
 ## 🚀 Live Demo
 
-[Check the live demo here](#)
+[Check the live demo here](https://kirollos-rezkallah.github.io/pizza-menu/)
 
 ## 🛠️ Features
 
