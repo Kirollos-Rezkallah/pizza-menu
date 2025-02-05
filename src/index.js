@@ -111,8 +111,8 @@ function Pizza({ name, photoName, ingredients, price, soldOut }) {
 
 function Footer() {
   const hour = new Date().getHours();
-  const openHour = 12;
-  const closeHour = 20;
+  const openHour = 8;
+  const closeHour = 24;
   const isOpen = hour >= openHour && hour <= closeHour;
 
   return (
